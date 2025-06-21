@@ -14,9 +14,19 @@
     "@remix-run/node": "^2.16.5",
     "@remix-run/react": "^2.16.5",
     "@remix-run/serve": "^2.16.5",
+    "animejs": "^4.0.1",
+    "datatables.net": "^2.2.2",
+    "dropzone": "^6.0.0-beta.2",
+    "framer-motion": "^12.7.4",
     "isbot": "^4.1.0",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "motion": "^12.7.4",
+    "nouislider": "^15.8.1",
+    "preline": "^3.0.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vanilla-calendar-pro": "^3.0.4"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.16.5",
