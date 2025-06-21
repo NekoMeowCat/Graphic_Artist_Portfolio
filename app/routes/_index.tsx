@@ -1,5 +1,4 @@
 import { useEffect, useRef } from "react";
-import Header from "~/components/header";
 
 export default function Home() {
   const scrollContainerRef = useRef(null);
@@ -124,7 +123,7 @@ export default function Home() {
                 </h1>
                 <div className="border h-[469px]">
                   <img
-                    src="/public/images/iring2.jpg"
+                    src="/images/iring2.jpg"
                     alt=""
                     className="h-full w-full object-cover"
                   />
